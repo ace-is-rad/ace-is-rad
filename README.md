@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on gaming projects
 - 📫 How to reach me (i will set this up)
-- 😄 Pronouns: they/them
+- 🔲 Pronouns: they/them
 - ⚡ Fun fact: I'm a Monster High Doll Collector
 
 <!---
