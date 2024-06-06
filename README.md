@@ -2,8 +2,6 @@
 - 👀 I’m interested in gaming, alt-metal, 2000s Sci-Fi movies, and crows
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on gaming projects
-- 📫 How to reach me (i will set this up)
-- 🔲 Pronouns: they/them
 - ⚡ Fun fact: I'm a Monster High Doll Collector
 
 <!---
